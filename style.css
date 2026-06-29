@@ -47,7 +47,8 @@ body {
    ────────────────────────────────────────────── */
 .hero-header {
   position: relative;
-  min-height: 100vh;
+  min-height: 45vh;
+  padding: 6rem 2rem 3rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -186,7 +187,7 @@ body {
    GALLERY SECTION
    ────────────────────────────────────────────── */
 .gallery-section {
-  padding: 5rem 2rem 6rem;
+  padding: 1.5rem 2rem 6rem;
   max-width: 1400px;
   margin: 0 auto;
 }
